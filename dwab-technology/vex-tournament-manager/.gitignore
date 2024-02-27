@@ -1,0 +1,7 @@
+build/
+/payload/Applications/VEX Tournament Manager.app/Contents/_CodeSignature/*
+/payload/Applications/VEX Tournament Manager.app/Contents/CodeResources
+/payload/Applications/VEX Tournament Manager.app/Contents/Frameworks/*
+/payload/Applications/VEX Tournament Manager.app/Contents/macOS/*
+/payload/Applications/VEX Tournament Manager.app/Contents/Resources/*
+!/payload/Applications/VEX Tournament Manager.app/Contents/Resources/TM.icns
