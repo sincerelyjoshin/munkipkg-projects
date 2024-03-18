@@ -1,0 +1,9 @@
+build/
+/payload/Applications/OHSecureBrowser.app/Contents/_CodeSignature/*
+/payload/Applications/OHSecureBrowser.app/Contents/CodeResources
+/payload/Applications/OHSecureBrowser.app/Contents/embedded.provisionprofile
+/payload/Applications/OHSecureBrowser.app/Contents/Library/*
+/payload/Applications/OHSecureBrowser.app/Contents/MacOS/*
+/payload/Applications/OHSecureBrowser.app/Contents/PkgInfo
+/payload/Applications/OHSecureBrowser.app/Contents/Resources/*
+!/payload/Applications/OHSecureBrowser.app/Contents/Resources/securebrowser.icns
